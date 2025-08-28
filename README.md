@@ -16,23 +16,12 @@ Adjustable telescope parameters (mirror diameter, focal length, eyepiece positio
 
 Easy-to-modify code for experimenting with different setups.
 
-⚙️ Installation
-
-Clone this repository:
-
-git clone https://github.com/yourusername/newtonian-telescope-simulation.git
-cd newtonian-telescope-simulation
-
-
-Install dependencies (if using Python, for example):
-
-pip install -r requirements.txt
 
 ▶️ Usage
 
 Run the main script:
 
-python main.py
+python simulation.py
 
 
 You can then adjust the parameters inside the script/config to simulate different telescope designs.
@@ -62,3 +51,7 @@ Add GUI controls for parameters.
 🤝 Contributing
 
 Contributions are welcome! Feel free to open issues or submit pull requests to improve the simulation.
+
+📜 License
+This project is licensed under the MIT License – see the LICANCE file for details.
+
