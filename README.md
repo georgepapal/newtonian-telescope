@@ -24,7 +24,7 @@ Run the main script:
 python simulation.py
 
 
-You can then adjust the parameters inside the script/config to simulate different telescope designs.
+You can then adjust the parameters inside the to simulate different telescope designs.
 
 📚 Background
 
